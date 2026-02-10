@@ -6,7 +6,7 @@ The goal of this project was to create a gripper capable of safely handling deli
 
 ---
 
-## 📌 Project Overview
+## Project Overview
 
 ### Key Design Goals
 - Capture CubeSats safely and reliably  
@@ -20,7 +20,7 @@ The goal of this project was to create a gripper capable of safely handling deli
 
 ---
 
-## ⚙️ Features
+## Features
 
 - CAD-based mechanical design  
 - Soft gripping fingers  
@@ -31,7 +31,7 @@ The goal of this project was to create a gripper capable of safely handling deli
 
 ---
 
-## 🛠 Tools & Technologies
+## Tools & Technologies
 
 - SolidWorks for CAD design  
 - Rapid prototyping  
@@ -40,7 +40,7 @@ The goal of this project was to create a gripper capable of safely handling deli
 
 ---
 
-## 📊 Results
+##  Results
 
 The gripper was experimentally evaluated while grasping CubeSat mockups, focusing on:
 
@@ -51,7 +51,7 @@ The gripper was experimentally evaluated while grasping CubeSat mockups, focusin
 
 ---
 
-## 👩‍💻 Authors
+##  Authors
 
 **Yasmin Abdelsabour Ashraf**  
 Mechatronics Engineer  
